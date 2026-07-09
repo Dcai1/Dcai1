@@ -23,24 +23,25 @@
 
 ### `[ 01 ]` **PokéWeb**  <br />
 `Result:` A data-powered web application using external API data. Displays detailed stats, types, sprites, and locations. <br />
-`Stack:` `Next.js` `React` `TailwindCSS`  <br />
+`Stack:` `Next.js` `React` `TypeScript` `TailwindCSS`   <br />
 `Link:` [View Project ↗](https://github.com/Dcai1/Pokemon-Website) <br />
 
 ---
 
-
-### `[ 02 ]` **Portfolio**  <br />
-`Result:` My personal portfolio website for listing ongoing and completed projects. <br />
-`Stack:` `TypeScript` `Socket.io` `TailwindCSS`  <br />
+### `[ 02 ]` **YourBlog**  <br />
+`Result:` Full-stack blogging application focused on having secure architecture, <br />
+SEO, and seamless content workflow. <br />
+`Stack:` `Next.js` `React` `TypeScript` `BootStrap` `Prisma` `Sass (SCSS)` `Quill (rich text)` `Sanitize-html` `PostgreSQL` <br />
 `Link:` [View Project ↗](https://github.com/Dcai1/YourBlog) <br />
 
 ---
 
-### `[ 03 ]` **YourBlog**  <br />
-`Result:` full-stack blogging application focusing on secure architecture, <br />
-SEO, and seamless content workflow. <br />
-`Stack:` `Python` `FastAPI` `Vue.js`  <br />
-`Link:` [View Project ↗](https://github.com/yourusername/project-three) <br />
+
+### `[ 03 ]` **Portfolio**  <br />
+`Result:` My personal portfolio website for listing ongoing and completed projects. <br />
+`Stack:` `Next.js` `React` `TypeScript` `TailwindCSS`  <br />
+`Link:` [View Project ↗](https://github.com/Dcai1/YourBlog) <br />
+
 
 
 ## /// ABOUT_ME ///
