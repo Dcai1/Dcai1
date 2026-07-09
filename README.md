@@ -47,13 +47,14 @@ SEO, and seamless content workflow. <br />
 ## /// ABOUT_ME ///
 
 ### // USER_BIO
-Hello! I'm a versatile Full-Stack Web Developer with a primary stack in the **TypeScript/Next.js** ecosystem, but I don't **limit** myself to just these frameworks and languages. I **always believe** there's room for improvement, and I'm constantly growing by learning new libraries and frameworks to deepen my knowledge in my career path. Not because I feel pressured to, but because I enjoy it. <br /> 
- ##### _It's like a game feeling where you overlevel your gear over and over, and leave you wondering how much stronger you'll get, as you repeat this loop._
+Hello! I'm a versatile **Full-Stack Web Developer** with a primary stack in the **TypeScript/Next.js** ecosystem. But I don't **limit** myself to just these languages and frameworks! <br />
+I **always believe** there's room for improvement, and I'm constantly growing by learning new libraries and frameworks to deepen my knowledge in my career path. Even if I knew everything in the whole world, I'd still continue looking for new, undiscovered technologies to learn. **Not because I feel pressured to, but because I enjoy it.** <br /> 
+ ##### "_It's like a game feeling where you replace your weaker gear with newer gear over and over, leaving you wondering how much stronger you'll get as you repeat this loop._"
 
 #### In my spare time, you can find me working on my personal projects, contributing mods to games I enjoy, or making an impact on public repositories that I have an interest in.
 
 
-##### ~~_...Yes, you read the bio right. I do feel excitement strong enough that I can't sleep._~~
+##### ~~_.....and yes, you read my bio right. I do feel excitement strong enough that I can't sleep._~~
 
 ---
 
