@@ -7,8 +7,8 @@
 <br />
 
 ## /// 𝗖𝗨𝗥𝗥𝗘𝗡𝗧_𝗦𝗣𝗥𝗜𝗡𝗧 ///
-`>>>` **𝙲𝚄𝚁𝚁𝙴𝙽𝚃_𝙵𝙾𝙲𝚄𝚂:** Ensuring Secure Architecture and (XSS) Sanitization <br />
-`>>>` **𝘚𝘛𝘈𝘛𝘜𝘚:** `In Progress` <br />
+`>>>` **𝙲𝚄𝚁𝚁𝙴𝙽𝚃_𝙵𝙾𝙲𝚄𝚂:** **YourBlog**  <br />
+`>>>` **𝘚𝘛𝘈𝘛𝘜𝘚:** `Ensuring Secure Architecture and (XSS) Sanitization` <br />
 `>>>` **𝘗𝘙𝘖𝘑𝘌𝘊𝘛_𝘛𝘠𝘗𝘌:** `PERSONAL` <br />
 `>>>` **𝘛𝘖_𝘋𝘖:** Recreate the (_horrible_) front-end interface to meet modern standards <br />
 `>>>` **𝘙𝘌𝘗𝘖:** [Link](https://github.com/Dcai1/YourBlog) <br />
