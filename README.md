@@ -1,4 +1,3 @@
-# /// 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 ///
 
 <div align="center">
   <code> WEB-DEVELOPER // FRONTEND // BACKEND // UI/UX // CODE-ENTHUSIAST </code>
@@ -40,7 +39,7 @@ SEO, and seamless content workflow. <br />
 ### `[ 03 ]` **Portfolio**  <br />
 `Result:` My personal portfolio website for listing ongoing and completed projects. <br />
 `Stack:` `Next.js` `React` `TypeScript` `TailwindCSS`  <br />
-`Link:` [View Project ↗](https://github.com/Dcai1/YourBlog) <br />
+`Link:` [View Project ↗](https://github.com/Dcai1/Portfolio) <br />
 
 
 
