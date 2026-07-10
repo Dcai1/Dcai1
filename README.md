@@ -28,8 +28,7 @@
 ---
 
 ### `[ 02 ]` **YourBlog**  <br />
-`Result:` Full-stack blogging application focused on having secure architecture, <br />
-SEO, and seamless content workflow. <br />
+`Result:` Full-stack blogging application focused on having secure architecture, SEO, and seamless content workflow. <br />
 `Stack:` `Next.js` `React` `TypeScript` `BootStrap` `Prisma` `Sass (SCSS)` `Quill (rich text)` `Sanitize-html` `PostgreSQL` <br />
 `Link:` [View Project ↗](https://github.com/Dcai1/YourBlog) <br />
 
