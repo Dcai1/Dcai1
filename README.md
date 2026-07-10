@@ -13,8 +13,8 @@
 `>>>` **𝘙𝘌𝘗𝘖:** [Link](https://github.com/Dcai1/YourBlog) <br />
 
 ## /// 𝘾𝙐𝙍𝙍𝙀𝙉𝙏𝙇𝙔_𝙇𝙀𝘼𝙍𝙉𝙄𝙉𝙂 ///
-#### `>>>` THREE.JS <br />
-#### `>>>` ASTRO <br />
+`>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **THREE.JS**  <br />
+`>>>` **IN_QUEUE:** **ASTRO**  <br />
 
 ---
 
