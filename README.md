@@ -5,12 +5,26 @@
 
 <br />
 
+---
+## /// _NOTICE_ ///
+
+`>>>` **TOPIC:** **My Low Commit History**  <br />
+`>>>` **FURTHER_INFO:** I've only started becoming more active with my GitHub recently, so **please** don't be discouraged seeing my commit graph showing inactivity from past months/years! <br />
+
+---
+
 ## /// 𝗖𝗨𝗥𝗥𝗘𝗡𝗧_𝗦𝗣𝗥𝗜𝗡𝗧 ///
 `>>>` **𝙲𝚄𝚁𝚁𝙴𝙽𝚃_𝙵𝙾𝙲𝚄𝚂:** **YourBlog**  <br />
 `>>>` **𝘚𝘛𝘈𝘛𝘜𝘚:** `Ensuring Secure Architecture and (XSS) Sanitization` <br />
 `>>>` **𝘗𝘙𝘖𝘑𝘌𝘊𝘛_𝘛𝘠𝘗𝘌:** `PERSONAL` <br />
 `>>>` **𝘛𝘖_𝘋𝘖:** Recreate the (_horrible_) front-end interface to meet modern standards <br />
 `>>>` **𝘙𝘌𝘗𝘖:** [Link](https://github.com/Dcai1/YourBlog) <br />
+
+## /// 𝘾𝙐𝙍𝙍𝙀𝙉𝙏𝙇𝙔_𝙇𝙀𝘼𝙍𝙉𝙄𝙉𝙂 ///
+`>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **THREE.JS**  <br />
+`>>>` **IN_QUEUE:** **ASTRO**  <br />
+
+---
 
 ## /// 𝘾𝙐𝙍𝙍𝙀𝙉𝙏𝙇𝙔_𝙇𝙀𝘼𝙍𝙉𝙄𝙉𝙂 ///
 `>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **THREE.JS**  <br />
