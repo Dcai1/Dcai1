@@ -9,7 +9,12 @@
 ## /// _NOTICE_ ///
 
 `>>>` **TOPIC:** **My Low Commit History**  <br />
-`>>>` **FURTHER_INFO:** I've only started becoming more active with my GitHub recently, so **please** don't be discouraged seeing my commit graph showing inactivity from past months/years! <br />
+
+`>>>` **FURTHER_INFO:** 
+
+---
+My career path is still very early _(started 1 year ago from **no** prior knowledge of anything)_. <br />
+I've only started becoming more active with my GitHub recently, so **please** don't be discouraged seeing my commit graph showing inactivity from past months/years! <br />
 
 ---
 
