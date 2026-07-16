@@ -64,7 +64,7 @@ I've only started becoming more active with my GitHub recently, so **please** do
 ## /// ABOUT_ME ///
 
 ### // USER_BIO
-Hello! I'm a versatile **Full-Stack Web Developer** with a primary stack in the **TypeScript/Next.js** ecosystem. But I don't **limit** myself to just these languages and frameworks! <br />
+Hello! I'm a versatile **Software Engineer** with a primary stack in the **Web Development** ecosystem. But I don't **limit** myself to just these languages and frameworks! <br />
 I **always believe** there's room for improvement, and I'm constantly growing by learning new libraries and frameworks to deepen my knowledge in my career path. Even if I knew everything in the whole world, I'd still continue looking for new, undiscovered technologies to learn. **Not because I feel pressured to, but because I enjoy it.** <br /> 
  ##### "_It's like a game feeling where you replace your weaker gear with newer gear over and over, leaving you wondering how much stronger you'll get as you repeat this loop._"
 
