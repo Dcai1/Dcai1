@@ -1,6 +1,6 @@
 
 <div align="center">
-  <code> WEB-DEVELOPER // FRONTEND // BACKEND // UI/UX // CODE-ENTHUSIAST </code>
+  <code> SOFTWARE ENGINEER // WEB-DEVELOPER // FRONTEND // BACKEND // UI/UX // CODE-ENTHUSIAST </code>
 </div>
 
 <br />
