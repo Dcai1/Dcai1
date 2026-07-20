@@ -29,28 +29,6 @@ If I knew everything in the world, I'd still look for new undiscovered skills to
 
 ---
 
-## /// FEATURED_PROJECTS ///
-
-### `[ 01 ]` **PokéWeb**  <br />
-`Result:` A data-powered web application using external API data. Displays detailed stats, types, sprites, and locations. <br />
-`Stack:` `Next.js` `React` `TypeScript` `TailwindCSS`   <br />
-`Link:` [View Project ↗](https://github.com/Dcai1/Pokemon-Website) <br />
-
----
-
-### `[ 02 ]` **YourBlog**  <br />
-`Result:` Full-stack blogging application focused on having secure architecture, SEO, and seamless content workflow. <br />
-`Stack:` `Next.js` `React` `TypeScript` `BootStrap` `Prisma` `Sass (SCSS)` `Quill (rich text)` `Sanitize-html` `PostgreSQL` <br />
-`Link:` [View Project ↗](https://github.com/Dcai1/YourBlog) <br />
-
----
-
-
-### `[ 03 ]` **Portfolio**  <br />
-`Result:` My personal portfolio website for listing ongoing and completed projects. <br />
-`Stack:` `Next.js` `React` `TypeScript` `TailwindCSS`  <br />
-`Link:` [View Project ↗](https://github.com/Dcai1/Portfolio) <br />
-
 <div align="center">
   <code> /// END-OF-FILE /// </code>
 </div>
