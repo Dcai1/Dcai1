@@ -25,7 +25,7 @@ If I knew everything in the world, I'd still look for new undiscovered skills to
 
 ## /// 𝘾𝙐𝙍𝙍𝙀𝙉𝙏𝙇𝙔_𝙇𝙀𝘼𝙍𝙉𝙄𝙉𝙂 ///
 `>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **THREE.JS**  <br />
-`>>>` **IN_QUEUE:** **ASTRO, C#, C++**  <br />
+`>>>` **IN_QUEUE:** **ASTRO, C#, C++, Go**  <br />
 
 ---
 
