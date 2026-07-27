@@ -12,7 +12,7 @@ If I knew everything in the world, I'd still look for new undiscovered skills to
 
 #### In my spare time, you can find me working on my personal projects, and contributing mods to games I enjoy.
 
-##### ~~_..yes, you read my bio right. I do feel excitement strong enough that I can't sleep._~~
+##### ~~_..yes, you read my bio right. I don't know why that happens_~~
 
 ---
 
@@ -24,8 +24,9 @@ If I knew everything in the world, I'd still look for new undiscovered skills to
 `>>>` **𝘙𝘌𝘗𝘖:** [Link](https://github.com/Dcai1/YourBlog) <br />
 
 ## /// 𝘾𝙐𝙍𝙍𝙀𝙉𝙏𝙇𝙔_𝙇𝙀𝘼𝙍𝙉𝙄𝙉𝙂 ///
-`>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **THREE.JS**  <br />
-`>>>` **IN_QUEUE:** **ASTRO, C#, C++, Go**  <br />
+`>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **CYBERSECURITY BASICS **  <br />
+`>>>` **IN_QUEUE:** **ASTRO, Go, C#, C++**  <br />
+`>>>` **ADDITIONAL_INFO:** If I'm not pushing commits, I'm learning!  <br />
 
 ---
 
