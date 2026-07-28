@@ -1,6 +1,6 @@
 
 <div align="center">
-  <code> SOFTWARE ENGINEER // WEB-DEVELOPER // FRONTEND // BACKEND // UI/UX // CODE-ENTHUSIAST </code>
+  <code> SOFTWARE ENGINEER // AUTOMATION // WEB-DEVELOPER // FRONTEND // BACKEND // CODE-ENTHUSIAST </code>
 </div>
 
 ## /// ABOUT_ME ///
@@ -24,9 +24,9 @@ If I knew everything in the world, I'd still look for new undiscovered skills to
 `>>>` **𝘙𝘌𝘗𝘖:** [Link](https://github.com/Dcai1/YourBlog) <br />
 
 ## /// 𝘾𝙐𝙍𝙍𝙀𝙉𝙏𝙇𝙔_𝙇𝙀𝘼𝙍𝙉𝙄𝙉𝙂 ///
-`>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **CYBERSECURITY BASICS **  <br />
+`>>>` **TOPIC_𝙵𝙾𝙲𝚄𝚂:** **CYBERSECURITY BASICS and AUTOMATION**  <br />
 `>>>` **IN_QUEUE:** **ASTRO, Go, C#, C++**  <br />
-`>>>` **ADDITIONAL_INFO:** If I'm not pushing commits, I'm learning!  <br />
+`>>>` **ADDITIONAL_INFO:** If I'm not pushing commits, I'm learning these topics!  <br />
 
 ---
 
