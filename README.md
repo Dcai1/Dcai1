@@ -6,7 +6,7 @@
 ## /// ABOUT_ME ///
 
 ### // USER_BIO
-Junior Cyber Security student currently studying at Algonquin College with previous experience in web development. Projects built through web development greatly strengthened web application knowledge, functionality, and vulnerabilities. <br /> <br />
+Junior Cyber Security student currently studying at Algonquin College with previous experience in web development. Web Development projects greatly strengthened web application knowledge, functionality, and vulnerability surfaces. <br /> <br />
 Desperate to gain exposure by documenting notable academic projects and creating side projects in their spare time (like AWS). <br />
 If I knew everything in the world, I'd still look for new undiscovered skills to learn because I enjoy the journey. <br /> 
  ##### "_like a game feeling where you replace your weaker gear with newer gear over and over, leaving you wondering how much stronger everytime._"
@@ -16,7 +16,7 @@ If I knew everything in the world, I'd still look for new undiscovered skills to
 ---
 
 ## /// 𝗖𝗨𝗥𝗥𝗘𝗡𝗧_𝗦𝗣𝗥𝗜𝗡𝗧 ///
-`>>>` **𝙲𝚄𝚁𝚁𝙴𝙽𝚃_𝙵𝙾𝙲𝚄𝚂:** Data & Info Compliance in AWS **  <br />
+`>>>` **𝙲𝚄𝚁𝚁𝙴𝙽𝚃_𝙵𝙾𝙲𝚄𝚂:** Data & Info Compliance in AWS  <br />
 `>>>` **𝘚𝘛𝘈𝘛𝘜𝘚:** `Ongoing` <br />
 `>>>` **𝘗𝘙𝘖𝘑𝘌𝘊𝘛_𝘛𝘠𝘗𝘌:** `PERSONAL` <br />
 `>>>` **𝘛𝘖_𝘋𝘖:** Implement family controls under Access Control, Configuration Management, and  Audit/Accountability.<br />
