@@ -6,10 +6,10 @@
 ## /// ABOUT_ME ///
 
 ### // USER_BIO
-Junior Cyber Security student currently studying at Algonquin College with previous experience in web development. Web Development projects greatly strengthened web application knowledge, functionality, and vulnerability surfaces. <br /> <br />
-Desperate to gain exposure by documenting notable academic projects and creating side projects in their spare time (like AWS). <br />
+Junior Cyber Security student currently studying at Algonquin College with previous experience in web development. Web Development projects greatly strengthened web application knowledge, functionality, vulnerability surfaces, and collaboration. <br /> <br />
+Desperate to gain real-world exposure to the field of Cyber Security. Currently documenting notable academic projects and creating side projects in their spare time. <br />
 If I knew everything in the world, I'd still look for new undiscovered skills to learn because I enjoy the journey. <br /> 
- ##### "_like a game feeling where you replace your weaker gear with newer gear over and over, leaving you wondering how much stronger everytime._"
+ ##### "_just like a game feeling of replacing your weaker gear with newer gear, wondering how much stronger you'll get next time._"
 
 #### In my spare time, you can find me working on my personal projects, or contributing any mods to games I enjoy.
 
